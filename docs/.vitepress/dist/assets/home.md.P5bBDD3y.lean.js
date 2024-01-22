@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,U as o}from"./chunks/framework.isgf4Vyz.js";const f=JSON.parse('{"title":"TETThe Eco LogicPlatform","description":"","frontmatter":{},"headers":[],"relativePath":"home.md","filePath":"home.md"}'),i={name:"home.md"},r=o("",4),s=[r];function n(l,c,_,h,d,m){return a(),e("div",null,s)}const g=t(i,[["render",n]]);export{f as __pageData,g as default};

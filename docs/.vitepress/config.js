@@ -16,8 +16,8 @@ export default {
     },
     nav: [
       { text: 'Home', link: '/index' },
-      { text: 'Getting started', link: 'http://localhost:5173/getting-started/introduction-to-tet.html' },
-      { text: 'Documentation', link: 'http://localhost:5173/Documentation/usingTET/before-you-start.html' },
+      { text: 'Getting started', link: '/getting-started/introduction-to-tet.html' },
+      { text: 'Documentation', link: '/Documentation/usingTET/before-you-start.html' },
       { text: 'Other', items: [{ text: 'Birt', link: '/getting-started/what-is-tet' }, { text: 'FOP', link: '/getting-started/what-is-tet' }] }
     ],
     sidebar: {
