@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.isgf4Vyz.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"another-page.md","filePath":"another-page.md"}'),r={name:"another-page.md"};function o(n,s,c,p,_,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
