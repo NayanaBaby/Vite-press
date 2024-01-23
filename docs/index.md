@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: TET
+  name: TET New
   text: The Eco Logic Platform
   tagline: Where Digital Amplifies Sustainability
   actions:
